@@ -1,6 +1,7 @@
 # fcv
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/raisedadead/fcv.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.org/raisedadead/fcv.svg?branch=master)](https://travis-ci.org/raisedadead/fcv)
 
 WIP
 
