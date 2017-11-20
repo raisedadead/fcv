@@ -1,5 +1,7 @@
 # fcv
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/raisedadead/fcv.svg)](https://greenkeeper.io/)
+
 WIP
 
 Please note that this project is released with a
