@@ -26,7 +26,7 @@
   "homepage": "https://github.com/raisedadead/fcv#readme",
   "devDependencies": {
     "@commitlint/cli": "^5.0.1",
-    "@commitlint/config-angular": "^4.3.0",
+    "@commitlint/config-angular": "^5.1.1",
     "@commitlint/prompt-cli": "^5.0.1",
     "husky": "^0.14.3",
     "lint-staged": "^6.0.0",
